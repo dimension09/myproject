@@ -1,5 +1,4 @@
 <?php
-//mysqli_connect('localhost', 'newuser', '111', 'mypro');
   error_reporting (0);
   require_once "inc/lib.inc.php";
 
