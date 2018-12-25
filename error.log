@@ -1,0 +1,124 @@
+[25-12-2018 14:19:13] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:19:13] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:19:13] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:19:25] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:25] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:25] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:26] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:26] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:26] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:28] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:19:28] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:19:28] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:19:31] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:31] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:31] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:32] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:32] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:32] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:35] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:19:35] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:19:35] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:19:35] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:35] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:35] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:37] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:37] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:37] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:38] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:19:38] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:19:38] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:19:44] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:44] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:44] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:45] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:19:45] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:19:45] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:19:46] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:19:46] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:19:46] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:20:10] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:20:10] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:20:10] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:20:22] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:20:22] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:20:22] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:21:04] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:21:04] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:21:04] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:26:58] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:26:58] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:26:58] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:27:01] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:27:01] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:27:01] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:29:08] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:29:08] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:29:08] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:48] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:30:48] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:30:48] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:48] - Undefined variable: rows in /var/www/mypro/inc/lib.inc.php:38
+[25-12-2018 14:30:49] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:30:49] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:30:49] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:49] - Undefined variable: rows in /var/www/mypro/inc/lib.inc.php:38
+[25-12-2018 14:30:50] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:30:50] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:30:50] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:50] - Undefined variable: rows in /var/www/mypro/inc/lib.inc.php:38
+[25-12-2018 14:30:52] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:30:52] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:30:52] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:52] - Undefined variable: rows in /var/www/mypro/inc/lib.inc.php:38
+[25-12-2018 14:30:54] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:30:54] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:30:54] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:30:54] - Undefined variable: rows in /var/www/mypro/inc/lib.inc.php:38
+[25-12-2018 14:32:13] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:32:13] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:32:13] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:35:04] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:35:04] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:35:04] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:35:09] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:35:09] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:35:09] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:35:14] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:35:14] - include(index.inc.php): failed to open stream: No such file or directory in /var/www/mypro/index.php:104
+[25-12-2018 14:35:14] - include(): Failed opening 'index.inc.php' for inclusion (include_path='.:/usr/share/php') in /var/www/mypro/index.php:104
+[25-12-2018 14:37:26] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:37:26] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:37:26] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:37:31] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:37:33] - Undefined index: id in /var/www/mypro/index.php:41
+[25-12-2018 14:37:35] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:37:35] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:37:35] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:39:00] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:39:00] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:39:00] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:42:01] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:42:01] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:42:01] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:42:03] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:42:03] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:42:03] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:44:20] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:44:20] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:44:20] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:44:22] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:44:22] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:44:22] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:44:23] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:44:23] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:44:23] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:46:31] - Undefined variable: cols in /var/www/mypro/table.php:42
+[25-12-2018 14:46:31] - Undefined variable: rows in /var/www/mypro/table.php:42
+[25-12-2018 14:46:31] - Undefined variable: color in /var/www/mypro/table.php:42
+[25-12-2018 14:47:55] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:47:55] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:47:55] - Undefined variable: color in /var/www/mypro/table.php:11
+[25-12-2018 14:48:33] - Undefined variable: cols in /var/www/mypro/table.php:9
+[25-12-2018 14:48:33] - Undefined variable: rows in /var/www/mypro/table.php:10
+[25-12-2018 14:48:33] - Undefined variable: color in /var/www/mypro/table.php:11

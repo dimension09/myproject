@@ -32,7 +32,7 @@ function drawMenu ($menu, $vertical = true)
     return true;
 }
 
-function drawTable ($cols = 10, $rows = 10, $color = 'gold')
+function drawTable ($cols, $rows, $color )
 {
   echo "<table border='1'>";
     for ($tr = 1; $tr <= $rows; $tr++)
